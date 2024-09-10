@@ -7,4 +7,6 @@ They can then have a conversation with these posts. Some typical questions to co
 - What are some common themes?
 - What are people struggling with? 
 
-
+The app is hosted [here](https://chattoreddit.streamlit.app/)
+See the video below for a demo on use
+![App Demo](demo/chat-with-reddit.gif)
